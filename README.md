@@ -7,3 +7,7 @@ Hey There! This is just a simple project trying out the following HTML concepts:
 - Images
 
 Feel free to check it out!
+
+UPDATE: 20 Oct 2026
+As per https://www.theodinproject.com/lessons/foundations-block-and-inline#assignment
+CSS has been added.
